@@ -1,13 +1,8 @@
 Name: UTKARSH BHOMBE
-
 Company: CODETECH IT SOLUTIONS
-
 ID: CT12DS386
-
 Domain: Web Development
-
 Duration: 1st JUNE TO 30th JULY
-
 Mentor: SARAVANI GOUNI
 
 
@@ -29,5 +24,6 @@ Style the webpage to make it user-friendly and visually appealing.
 JavaScript Functionality:
 Add functionality to add tasks, mark them as complete, and delete them.
 
-![Screenshot 2024-07-26 144405](https://github.com/user-attachments/assets/3d560298-b168-46c7-a549-4d116de4b8ec)
+![Screenshot 2024-07-26 145551](https://github.com/user-attachments/assets/317bbea1-02b6-4873-b58f-c28fa17e5448)
+
 
